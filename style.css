@@ -1,0 +1,120 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#topNav {
+    margin: 5px 20px auto auto; 
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+}
+
+.topNavText {
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#icon {
+    padding: 10px;
+
+}
+
+#signInButton {
+    border-width: none;
+    border-color: none;
+    background-color: rgb(24, 99, 238);
+    padding: 8px 11px 8px 11px;
+    color: white;
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+#signInButton a {
+    color: white;
+}
+
+#logo {
+    
+    display: block;
+    margin-top: 220px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+#searchBar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 45px;
+    width: 400px;
+    border-color: rgb(228, 228, 228);
+    border-width: 1px;
+    font-size: 18px;
+    box-shadow: 1px 1px 10px 1px rgb(161, 161, 161);
+    border-radius: 20px;
+    background-image: url(https://cdn.onlinewebfonts.com/svg/img_388871.png), url(https://upload.wikimedia.org/wikipedia/commons/e/e8/Google_mic.svg);
+    background-size: 15px 15px, 15px 15px;
+    background-position: left center, right center;
+    background-repeat: no-repeat, no-repeat;
+    background-position-x: 20px, 365px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+table {
+    margin: 0 auto 0 auto;
+}
+
+.searchButton {
+    border-radius: 5px;
+    background-color: rgb(247, 247, 247);
+    border-width: 0;
+    height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 14px;
+    color: rgb(102, 102, 102);
+}
+
+#offer {
+    font-size: 12px;
+    text-align: center;
+    padding: 20px;
+
+}
+
+#lt {
+    color: rgb(26, 73, 161);
+}
+
+#footer {
+    list-style-type: none;
+    background-color: rgb(236, 233, 233);
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    bottom: 0;
+    font-size: 14px;
+    position: absolute;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: rgb(119, 119, 119);
+}
+
